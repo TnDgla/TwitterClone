@@ -88,10 +88,10 @@ This project follows an incremental development approach, enabling a smooth tran
 - **Tasks:**
   1. Install Laravel and set up the project.  
      - **Reading:** [Laravel Official Documentation](https://laravel.com/docs/10.x/installation)  
-     - **Video:** [Laravel Crash Course](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Laravel Crash Course](https://www.youtube.com/watch?v=MFh0Fd7BsjE&t=1s)  
   2. Configure Vue.js and Inertia.js.  
      - **Reading:** [Inertia.js Official Guide](https://inertiajs.com/)  
-     - **Video:** [Inertia.js Setup Tutorial](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Inertia.js Setup Tutorial](https://www.youtube.com/watch?v=iGnlmxA7oM8&list=PL38wFHH4qYZXCW2rlBLNdHi5cv-v_qlXO)  
   3. Set up Tailwind CSS for styling.  
      - **Reading:** [Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation)  
      - **Video:** [Tailwind CSS Setup Guide](https://www.youtube.com/watch?v=UBOj6rqRUME)  
@@ -107,10 +107,10 @@ This project follows an incremental development approach, enabling a smooth tran
 - **Tasks:**  
   1. Install Laravel Breeze for authentication.  
      - **Reading:** [Laravel Breeze Documentation](https://laravel.com/docs/10.x/starter-kits#laravel-breeze)  
-     - **Video:** [Laravel Breeze Guide](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Laravel Breeze Guide](https://www.youtube.com/watch?v=Cdj9vF_pA1w&list=PLW-lITXBwAP_uFDDAbVzG7sYotlGD15Rl)  
   2. Create routes and views for authentication.  
      - **Reading:** [Laravel Routing Guide](https://laravel.com/docs/10.x/routing)  
-     - **Video:** [Routing in Laravel](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Routing in Laravel](https://www.youtube.com/watch?v=oCf9Bb-crPc)  
 
 - **Deliverables:**  
   - Fully functional authentication system.
@@ -123,10 +123,10 @@ This project follows an incremental development approach, enabling a smooth tran
 - **Tasks:**  
   1. Create database migrations and models for tweets.  
      - **Reading:** [Laravel Migrations](https://laravel.com/docs/10.x/migrations)  
-     - **Video:** [Building Migrations](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Building Migrations](https://www.youtube.com/watch?v=RSM0sEP_nXc)  
   2. Set up Vue.js components for tweet input and display.  
      - **Reading:** [Vue.js Components Guide](https://vuejs.org/guide/essentials/component-basics.html)  
-     - **Video:** [Vue Components Tutorial](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Vue Components Tutorial](https://www.youtube.com/watch?v=ycBf5awzE8Y)  
 
 - **Deliverables:**  
   - Functional tweet creation and display system.
@@ -139,7 +139,7 @@ This project follows an incremental development approach, enabling a smooth tran
 - **Tasks:**  
   1. Add support for image and video uploads using Laravel.  
      - **Reading:** [Laravel File Storage](https://laravel.com/docs/10.x/filesystem)  
-     - **Video:** [File Uploads in Laravel](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [File Uploads in Laravel](https://www.youtube.com/watch?v=7E1ZqSrjlos)  
   2. Enable real-time tweet updates with Vue.js and Inertia.js.  
      - **Reading:** [Real-Time Apps with Vue](https://vuejs.org/guide/scaling-up/state-management.html)  
      - **Video:** [Building Real-Time Apps](https://www.youtube.com/watch?v=RWJF0xSSaps)  
@@ -155,10 +155,10 @@ This project follows an incremental development approach, enabling a smooth tran
 - **Tasks:**  
   1. Deploy the backend to a production-ready server.  
      - **Reading:** [Laravel Deployment Guide](https://laravel.com/docs/10.x/deployment)  
-     - **Video:** [Deploying Laravel Apps](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Deploying Laravel Apps](https://www.youtube.com/watch?v=dpJDV25tptw)  
   2. Test the application for bugs and fix issues.  
      - **Reading:** [Laravel Testing](https://laravel.com/docs/10.x/testing)  
-     - **Video:** [Laravel Testing Tutorial](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Laravel Testing Tutorial](https://www.youtube.com/watch?v=BuDger5Ytbc&list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp)  
 
 - **Deliverables:**  
   - Fully deployed and tested Twitter Clone.
