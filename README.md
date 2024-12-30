@@ -1,4 +1,4 @@
-Here are the updated documentation details for creating a **Twitter Clone** based on the implementation provided in the transcript using **Laravel, Vue.js, Inertia.js, Tailwind CSS, and JavaScript**:
+
 
 ---
 
