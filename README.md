@@ -142,7 +142,7 @@ This project follows an incremental development approach, enabling a smooth tran
      - **Video:** [File Uploads in Laravel](https://www.youtube.com/watch?v=7E1ZqSrjlos)  
   2. Enable real-time tweet updates with Vue.js and Inertia.js.  
      - **Reading:** [Real-Time Apps with Vue](https://vuejs.org/guide/scaling-up/state-management.html)  
-     - **Video:** [Building Real-Time Apps](https://www.youtube.com/watch?v=RWJF0xSSaps)  
+     - **Video:** [Building Real-Time Apps](https://www.youtube.com/watch?v=VeNfHj6MhgA&t=1s)  
 
 - **Deliverables:**  
   - Support for multimedia uploads and live tweet updates.
